@@ -36,3 +36,7 @@ pprint2 example.py
 ```
 After this command, you will get a `example.py.pdf` file.
 
+Requirements
+------------
+`brew`
+`bash shell`
