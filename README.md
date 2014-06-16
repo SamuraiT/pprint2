@@ -43,5 +43,5 @@ pprint2 example.py
 ```
 After this command, you will get a `example.py.pdf` file like this:
 
-![example pdf](example.pdf)
+![example pdf](example.png)
 
