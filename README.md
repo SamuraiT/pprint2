@@ -29,14 +29,19 @@ pprint2 filename
 ```
 After this command, pdf file will be created.
 
+
+Requirements
+------------
+
+* `brew`
+* `bash shell`
+
 Example
 -------
 ```
 pprint2 example.py
 ```
-After this command, you will get a `example.py.pdf` file.
+After this command, you will get a `example.py.pdf` file like this:
 
-Requirements
-------------
-`brew`
-`bash shell`
+![example pdf](example.pdf)
+
